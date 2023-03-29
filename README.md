@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- https://nfl-fantasy-draft-board.com/
+- https://buildbandits.com
+
 <!--
 **rgubby/rgubby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
